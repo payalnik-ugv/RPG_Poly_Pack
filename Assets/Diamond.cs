@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class Diamond : MonoBehaviour
 {
+    [SerializeField] private GameObject diamondVisual;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -13,6 +15,6 @@ public class Diamond : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        transform.Rotate(0, 3, 0);
+        diamondVisual.transform.Rotate(0, 3, 0);
     }
 }
