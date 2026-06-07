@@ -9,12 +9,21 @@ public class Diamond : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        //Debug.Log("Start Diamond script");
     }
 
     // Update is called once per frame
     void Update()
     {
         diamondVisual.transform.Rotate(0, 3, 0);
+    }
+
+    private void OnTriggerEnter(Collider other)
+    {
+        //Debug.Log("OnTriggerEnter");
+        if(other.CompareTag("Player"))
+        {
+            Destroy(gameObject);
+        }
     }
 }
