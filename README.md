@@ -4,4 +4,4 @@
 
 - **Version**: Unity 2022.3 (LTS)
 - ![Screen-1](Images/screenshot_01.png)
-- ![Screen-2](Images/screenshot_01.png)
+- ![Screen-2](Images/screenshot_02.png)
