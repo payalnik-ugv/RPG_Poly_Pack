@@ -15,7 +15,7 @@ public class Diamond : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        diamondVisual.transform.Rotate(0, 3, 0);
+        diamondVisual.transform.Rotate(0, (3 + Time.deltaTime), 0);
     }
 
     private void OnTriggerEnter(Collider other)
