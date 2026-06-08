@@ -1,4 +1,4 @@
-# 3D RPG
+# Collect All Diamonds (3D RPG)
 
 - **Unity**: 2022.3 (LTS)
 - **Microsoft Visual Studio**: 2022 (Community)
@@ -6,5 +6,7 @@
 [Jammo Character](https://assetstore.unity.com/packages/3d/characters/jammo-character-mix-and-jam-158456?srsltid=AfmBOoqk_DhLTlslWLfZPgbMGYizJWE7Q7qxmtNsrSzryxVY0UAaVVsM),
 [Coin Treasure Bundle](https://assetstore.unity.com/packages/3d/props/coin-treasure-bundle-with-animation-3d-250070?srsltid=AfmBOopmysnKe723e1sZXHBXWI6KgqJ4yItJOAX9NfgDMllOWX_Wu3dH)
 
-![Screen-1](Images/screenshot_01.png)
-![Screen-2](Images/screenshot_02.png)
+![Collect Diamonds prcess](Images/screenshot_01.png)
+![Collect Diamonds prcess](Images/screenshot_02.png)
+![Collect Diamonds prcess](Images/screenshot_03.png)
+![Source code](Images/screenshot_04.png)
