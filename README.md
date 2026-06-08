@@ -1,4 +1,4 @@
-# RPG Poly Pack (3D)
+# Jammo Character | RPG Poly Pack (3D)
 
 C# в Unity Полный базовый курс с нуля, от полного новичка до Джуна, первой работы, первой игры
 
