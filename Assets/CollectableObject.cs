@@ -1,7 +1,8 @@
 using UnityEngine;
 
-public class Diamond : MonoBehaviour
+public class CollectableObject : MonoBehaviour
 {
+    [SerializeField] private Resource resource;
     [SerializeField] private GameObject diamondVisual;
 
     // Update is called once per frame
@@ -13,11 +14,12 @@ public class Diamond : MonoBehaviour
     private void OnTriggerEnter(Collider other)
     {
         //Debug.Log("OnTriggerEnter");
-        if(other.CompareTag("Player"))
+        //resource = Resource.Diamond;
+        if (other.CompareTag("Player"))
         {
             Destroy(gameObject);
             Inventory inventory = other.GetComponent<Inventory>();
-            inventory.AddDiamond();
+            inventory.AddResource(resource);
         }
     }
 }
