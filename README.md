@@ -9,8 +9,8 @@ also [HotKes](https://docs.unity3d.com/ru/2021.1/Manual/search-overview.html), [
   - [MonoBehaviour.OnDisable()](https://docs.unity3d.com/6000.4/Documentation/ScriptReference/MonoBehaviour.OnDisable.html)
 
 + Environments:
-  - **Unity Engine**: 2022.3 (LTS)
-  - **Microsoft Visual Studio**: 2022 (Community)
+  - **Unity Engine**: 2022.3 (<i>LTS</i>)
+  - **Microsoft Visual Studio**: 2022 (<i>Community</i>)
   - **Game Assets**: [RPG Poly Pack](https://assetstore.unity.com/packages/3d/environments/landscapes/rpg-poly-pack-lite-148410?srsltid=AfmBOopyTWvyJbW2FR-QsMngGbpQUZwNhEXTJWuIjfRgfdgobDy4EBTA),
 [Jammo Character](https://assetstore.unity.com/packages/3d/characters/jammo-character-mix-and-jam-158456?srsltid=AfmBOoqk_DhLTlslWLfZPgbMGYizJWE7Q7qxmtNsrSzryxVY0UAaVVsM),
 [Coin Treasure Bundle](https://assetstore.unity.com/packages/3d/props/coin-treasure-bundle-with-animation-3d-250070?srsltid=AfmBOopmysnKe723e1sZXHBXWI6KgqJ4yItJOAX9NfgDMllOWX_Wu3dH)
