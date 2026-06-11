@@ -17,14 +17,14 @@ also [HotKes](https://docs.unity3d.com/ru/2021.1/Manual/search-overview.html), [
 
 Блоги: [Создание игры на Unity с нуля](https://artean.ru/blog/igri/kak-sozdat-igru-na-unity-s-nulya-polnoe-rukovodstvo), [другие...](https://artean.ru/blog)
 
-### Prcess game:
+#### Prcess game:
 ![Start game prcess](Images/screenshot_00.png)
 ![Game prcess](Images/screenshot_01.png)
 ![Game prcess](Images/screenshot_02.png)
 ![Game prcess](Images/screenshot_03.png)
 ![Finish game prcess](Images/screenshot_04.png)
 
-### Source code:
+#### Source code:
 ![AllEnums.cs](Images/screenshot_10.png)
 ![CollectableObject.cs](Images/screenshot_11.png)
 ![Inventory.cs](Images/screenshot_12.png)
