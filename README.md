@@ -8,7 +8,7 @@ also [HotKes](https://docs.unity3d.com/ru/2021.1/Manual/search-overview.html), [
   - [MonoBehaviour.Update()](https://docs.unity3d.com/6000.4/Documentation/ScriptReference/MonoBehaviour.Update.html)
   - [MonoBehaviour.OnDisable()](https://docs.unity3d.com/6000.4/Documentation/ScriptReference/MonoBehaviour.OnDisable.html)
 
-+ Environments:
++ Dev Environment:
   - **Unity Engine**: [2022.3 (LTS)](https://docs.unity3d.com/2022.3/Documentation/Manual)
   - **Microsoft Visual Studio**: 2022 (<i>Community</i>)
   - **Game Assets**: [RPG Poly Pack](https://assetstore.unity.com/packages/3d/environments/landscapes/rpg-poly-pack-lite-148410?srsltid=AfmBOopyTWvyJbW2FR-QsMngGbpQUZwNhEXTJWuIjfRgfdgobDy4EBTA),
