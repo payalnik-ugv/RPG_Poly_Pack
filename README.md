@@ -1,5 +1,7 @@
 # Collect All Diamonds (3D RPG)
 
+For detail inform then can refer to lessons [tutorial-1](https://www.youtube.com/watch?v=K5FM6bz4qO4) and [tutorial-2](https://www.youtube.com/watch?v=veFxqpw8LKI)
+
 - **Unity**: 2022.3 (LTS)
 - **Microsoft Visual Studio**: 2022 (Community)
 - **Assets**: [RPG Poly Pack](https://assetstore.unity.com/packages/3d/environments/landscapes/rpg-poly-pack-lite-148410?srsltid=AfmBOopyTWvyJbW2FR-QsMngGbpQUZwNhEXTJWuIjfRgfdgobDy4EBTA),
