@@ -1,6 +1,6 @@
-# Collect All Diamonds (3D RPG)
+# The collect diamonds (3D RPG)
 
-For detail inform then can refer to lessons [tutorial-1](https://www.youtube.com/watch?v=K5FM6bz4qO4) and [tutorial-2](https://www.youtube.com/watch?v=veFxqpw8LKI)
+For detail inform then can refer to base tutorials [#1](https://www.youtube.com/watch?v=K5FM6bz4qO4) and [#2](https://www.youtube.com/watch?v=veFxqpw8LKI)
 
 - **Unity**: 2022.3 (LTS)
 - **Microsoft Visual Studio**: 2022 (Community)
