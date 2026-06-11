@@ -1,4 +1,3 @@
-using System;
 using UnityEngine;
 using TMPro;
 
@@ -14,15 +13,11 @@ public class CanvasUpdater : MonoBehaviour
         inventory.ONCanvasUpdate += InvertoryOnONCanvasUpdate;
     }
 
+    // Called when a component itself is disabled or its parent GameObject is deactivated
     void OnDisable()
     {
         inventory.ONCanvasUpdate -= InvertoryOnONCanvasUpdate;
     }
-
-    //private void InvertoryOnONCanvasUpdate(int diamondAmmount)
-    //{
-    //    diamondTextAmmount.text = diamondAmmount.ToString();
-    //}
 
     private void InvertoryOnONCanvasUpdate(int diamondAmmount, int goldAmmount)
     {

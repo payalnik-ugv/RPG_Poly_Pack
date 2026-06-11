@@ -13,8 +13,6 @@ public class CollectableObject : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        //Debug.Log("OnTriggerEnter");
-        //resource = Resource.Diamond;
         if (other.CompareTag("Player"))
         {
             Destroy(gameObject);
