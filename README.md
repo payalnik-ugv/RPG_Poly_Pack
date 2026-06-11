@@ -17,7 +17,7 @@ also [HotKes](https://docs.unity3d.com/ru/2021.1/Manual/search-overview.html), [
 
 Блоги: [Создание игры на Unity с нуля](https://artean.ru/blog/igri/kak-sozdat-igru-na-unity-s-nulya-polnoe-rukovodstvo), [другие...](https://artean.ru/blog)
 
-#### Prcess game:
+#### Game prcess:
 ![Start game prcess](Images/screenshot_00.png)
 ![Game prcess](Images/screenshot_01.png)
 ![Game prcess](Images/screenshot_02.png)
