@@ -6,11 +6,14 @@
 [Jammo Character](https://assetstore.unity.com/packages/3d/characters/jammo-character-mix-and-jam-158456?srsltid=AfmBOoqk_DhLTlslWLfZPgbMGYizJWE7Q7qxmtNsrSzryxVY0UAaVVsM),
 [Coin Treasure Bundle](https://assetstore.unity.com/packages/3d/props/coin-treasure-bundle-with-animation-3d-250070?srsltid=AfmBOopmysnKe723e1sZXHBXWI6KgqJ4yItJOAX9NfgDMllOWX_Wu3dH)
 
+Game prcess:
 ![Start game prcess](Images/screenshot_00.png)
 ![Game prcess](Images/screenshot_01.png)
 ![Game prcess](Images/screenshot_02.png)
 ![Game prcess](Images/screenshot_03.png)
 ![Finish game prcess](Images/screenshot_04.png)
+
+Source code:
 ![AllEnums.cs](Images/screenshot_10.png)
 ![CollectableObject.cs](Images/screenshot_11.png)
 ![Inventory.cs](Images/screenshot_12.png)
