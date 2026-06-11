@@ -3,15 +3,15 @@
 For details inform then can you refer to base tutorials [#1](https://www.youtube.com/watch?v=K5FM6bz4qO4) and [#2](https://www.youtube.com/watch?v=veFxqpw8LKI),
 also [HotKes](https://docs.unity3d.com/ru/2021.1/Manual/search-overview.html), [Engine lifecycle](https://docs.unity3d.com/ru/current/Manual/ExecutionOrder.html).
 
-Unity API:
-- [MonoBehaviour.Start()](https://docs.unity3d.com/6000.4/Documentation/ScriptReference/MonoBehaviour.Start.html)
-- [MonoBehaviour.Update()](https://docs.unity3d.com/6000.4/Documentation/ScriptReference/MonoBehaviour.Update.html)
-- [MonoBehaviour.OnDisable()](https://docs.unity3d.com/6000.4/Documentation/ScriptReference/MonoBehaviour.OnDisable.html)
++ Unity API:
+  - [MonoBehaviour.Start()](https://docs.unity3d.com/6000.4/Documentation/ScriptReference/MonoBehaviour.Start.html)
+  - [MonoBehaviour.Update()](https://docs.unity3d.com/6000.4/Documentation/ScriptReference/MonoBehaviour.Update.html)
+  - [MonoBehaviour.OnDisable()](https://docs.unity3d.com/6000.4/Documentation/ScriptReference/MonoBehaviour.OnDisable.html)
 
-Environments:
-- **Unity Engine**: 2022.3 (LTS)
-- **Microsoft Visual Studio**: 2022 (Community)
-- **Game Assets**: [RPG Poly Pack](https://assetstore.unity.com/packages/3d/environments/landscapes/rpg-poly-pack-lite-148410?srsltid=AfmBOopyTWvyJbW2FR-QsMngGbpQUZwNhEXTJWuIjfRgfdgobDy4EBTA),
++ Environments:
+  - **Unity Engine**: 2022.3 (LTS)
+  - **Microsoft Visual Studio**: 2022 (Community)
+  - **Game Assets**: [RPG Poly Pack](https://assetstore.unity.com/packages/3d/environments/landscapes/rpg-poly-pack-lite-148410?srsltid=AfmBOopyTWvyJbW2FR-QsMngGbpQUZwNhEXTJWuIjfRgfdgobDy4EBTA),
 [Jammo Character](https://assetstore.unity.com/packages/3d/characters/jammo-character-mix-and-jam-158456?srsltid=AfmBOoqk_DhLTlslWLfZPgbMGYizJWE7Q7qxmtNsrSzryxVY0UAaVVsM),
 [Coin Treasure Bundle](https://assetstore.unity.com/packages/3d/props/coin-treasure-bundle-with-animation-3d-250070?srsltid=AfmBOopmysnKe723e1sZXHBXWI6KgqJ4yItJOAX9NfgDMllOWX_Wu3dH)
 
