@@ -1,7 +1,12 @@
 # The collect diamonds (3D RPG)
 
-For detail inform then can refer to base tutorials [#1](https://www.youtube.com/watch?v=K5FM6bz4qO4) and [#2](https://www.youtube.com/watch?v=veFxqpw8LKI)
+For details inform then can refer to base tutorials [#1](https://www.youtube.com/watch?v=K5FM6bz4qO4) and [#2](https://www.youtube.com/watch?v=veFxqpw8LKI)
+Unity API Documentation:
+- [MonoBehaviour.Start()](https://docs.unity3d.com/6000.4/Documentation/ScriptReference/MonoBehaviour.Start.html)
+- [MonoBehaviour.Update()](https://docs.unity3d.com/6000.4/Documentation/ScriptReference/MonoBehaviour.Update.html)
+- [MonoBehaviour.OnDisable()](https://docs.unity3d.com/6000.4/Documentation/ScriptReference/MonoBehaviour.OnDisable.html)
 
+Required:
 - **Unity**: 2022.3 (LTS)
 - **Microsoft Visual Studio**: 2022 (Community)
 - **Assets**: [RPG Poly Pack](https://assetstore.unity.com/packages/3d/environments/landscapes/rpg-poly-pack-lite-148410?srsltid=AfmBOopyTWvyJbW2FR-QsMngGbpQUZwNhEXTJWuIjfRgfdgobDy4EBTA),
