@@ -15,7 +15,7 @@ Environments:
 [Jammo Character](https://assetstore.unity.com/packages/3d/characters/jammo-character-mix-and-jam-158456?srsltid=AfmBOoqk_DhLTlslWLfZPgbMGYizJWE7Q7qxmtNsrSzryxVY0UAaVVsM),
 [Coin Treasure Bundle](https://assetstore.unity.com/packages/3d/props/coin-treasure-bundle-with-animation-3d-250070?srsltid=AfmBOopmysnKe723e1sZXHBXWI6KgqJ4yItJOAX9NfgDMllOWX_Wu3dH)
 
-Блог: [Создание игры на Unity с нуля](https://artean.ru/blog/igri/kak-sozdat-igru-na-unity-s-nulya-polnoe-rukovodstvo), [Все](https://artean.ru/blog)
+Блоги: [Создание игры на Unity с нуля](https://artean.ru/blog/igri/kak-sozdat-igru-na-unity-s-nulya-polnoe-rukovodstvo), [Все](https://artean.ru/blog)
 
 Prcess game:
 ![Start game prcess](Images/screenshot_00.png)
