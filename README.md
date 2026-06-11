@@ -1,11 +1,12 @@
 # The collect diamonds (3D RPG)
 
-For details inform then can refer to base tutorials [#1](https://www.youtube.com/watch?v=K5FM6bz4qO4) and [#2](https://www.youtube.com/watch?v=veFxqpw8LKI).
+For details inform then can refer to base tutorials [#1](https://www.youtube.com/watch?v=K5FM6bz4qO4) and [#2](https://www.youtube.com/watch?v=veFxqpw8LKI),
+also [Unity HotKes](https://docs.unity3d.com/ru/2021.1/Manual/search-overview.html), [Unity lifecycle](https://docs.unity3d.com/ru/current/Manual/ExecutionOrder.html).
+
 Unity API Documentation:
 - [MonoBehaviour.Start()](https://docs.unity3d.com/6000.4/Documentation/ScriptReference/MonoBehaviour.Start.html)
 - [MonoBehaviour.Update()](https://docs.unity3d.com/6000.4/Documentation/ScriptReference/MonoBehaviour.Update.html)
 - [MonoBehaviour.OnDisable()](https://docs.unity3d.com/6000.4/Documentation/ScriptReference/MonoBehaviour.OnDisable.html)
-Also [Unity HotKes](https://docs.unity3d.com/ru/2021.1/Manual/search-overview.html), [Unity lifecycle](https://docs.unity3d.com/ru/current/Manual/ExecutionOrder.html)
 
 Required:
 - **Unity**: 2022.3 (LTS)
