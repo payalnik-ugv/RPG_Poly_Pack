@@ -11,6 +11,15 @@ public class CouroutineSpawner : MonoBehaviour
         StartCoroutine(SpawnCourutine());
     }
 
+
+    private void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.O))
+        {
+            StopAllCoroutines();
+        }
+    }
+
     // Требует вернуть задержку между тем времени, сколько должно пройти перед началом выполнения кода в скрипте
     public IEnumerator SpawnCourutine()
     {
