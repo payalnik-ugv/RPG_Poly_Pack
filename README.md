@@ -9,14 +9,14 @@ Explain lessons topics: Event, Enums, Coroutines, Singleton, Generic
   - [Audio](https://docs.unity3d.com/6000.3/Documentation/Manual/Audio.html)
   - [Managing scenes in Build Settings](https://docs.unity3d.com/2022.3/Documentation/Manual/BuildSettings.html) (_2022.3_)
   - [Managing scenes in Build Profiles](https://www.easyar.com/doc/ru/develop/unity/getting-started/quickstart.html)
-  - [MonoBehaviour.Start()](https://docs.unity3d.com/6000.4/Documentation/ScriptReference/MonoBehaviour.Start.html)
-  - [MonoBehaviour.Update()](https://docs.unity3d.com/6000.4/Documentation/ScriptReference/MonoBehaviour.Update.html)
-  - [MonoBehaviour.OnDisable()](https://docs.unity3d.com/6000.4/Documentation/ScriptReference/MonoBehaviour.OnDisable.html)
-  - [MonoBehaviour.Awake()](https://docs.unity3d.com/6000.4/Documentation/ScriptReference/MonoBehaviour.Awake.html)
+  - [MonoBehaviour.Start()](https://docs.unity3d.com/6000.3/Documentation/ScriptReference/MonoBehaviour.Start.html)
+  - [MonoBehaviour.Update()](https://docs.unity3d.com/6000.3/Documentation/ScriptReference/MonoBehaviour.Update.html)
+  - [MonoBehaviour.OnDisable()](https://docs.unity3d.com/6000.3/Documentation/ScriptReference/MonoBehaviour.OnDisable.html)
+  - [MonoBehaviour.Awake()](https://docs.unity3d.com/6000.3/Documentation/ScriptReference/MonoBehaviour.Awake.html)
 
 + Dev Environment:
   - **Unity Engine**: [2022.3 (LTS)](https://docs.unity3d.com/2022.3/Documentation/Manual)
-  - **Microsoft Visual Studio**: 2022 (<i>Community</i>)
+  - **Microsoft Visual Studio**: 2022 (_Community_)
   - **Game Assets**: [RPG Poly Pack](https://assetstore.unity.com/packages/3d/environments/landscapes/rpg-poly-pack-lite-148410?srsltid=AfmBOopyTWvyJbW2FR-QsMngGbpQUZwNhEXTJWuIjfRgfdgobDy4EBTA),
 [Jammo Character](https://assetstore.unity.com/packages/3d/characters/jammo-character-mix-and-jam-158456?srsltid=AfmBOoqk_DhLTlslWLfZPgbMGYizJWE7Q7qxmtNsrSzryxVY0UAaVVsM),
 [Coin Treasure Bundle](https://assetstore.unity.com/packages/3d/props/coin-treasure-bundle-with-animation-3d-250070?srsltid=AfmBOopmysnKe723e1sZXHBXWI6KgqJ4yItJOAX9NfgDMllOWX_Wu3dH)
