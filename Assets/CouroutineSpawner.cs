@@ -4,11 +4,12 @@ using System.Collections;
 public class CouroutineSpawner : MonoBehaviour
 {
     [SerializeField] private GameObject prefab;
+    private Coroutine _spawCoroutine;
 
     // Start is called before the first frame update
     void Start()
     {
-        StartCoroutine(SpawnCourutine());
+        _spawCoroutine = StartCoroutine(SpawnCourutine());
     }
 
 
@@ -16,7 +17,8 @@ public class CouroutineSpawner : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.O))
         {
-            StopAllCoroutines();
+            //StopAllCoroutines();
+            StopCoroutine(_spawCoroutine);
         }
     }
 
