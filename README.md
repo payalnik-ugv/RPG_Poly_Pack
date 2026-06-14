@@ -6,6 +6,8 @@ also [HotKes](https://docs.unity3d.com/ru/2021.1/Manual/search-overview.html), [
 Explain lessons topics: Event, Enums, Coroutines, Singleton, Generic
 
 + Unity API:
+  - [Audio](https://docs.unity3d.com/6000.3/Documentation/Manual/Audio.html)
+  - [Managing scenes in a build](https://docs.unity3d.com/2022.3/Documentation/Manual/BuildSettings.html)
   - [MonoBehaviour.Start()](https://docs.unity3d.com/6000.4/Documentation/ScriptReference/MonoBehaviour.Start.html)
   - [MonoBehaviour.Update()](https://docs.unity3d.com/6000.4/Documentation/ScriptReference/MonoBehaviour.Update.html)
   - [MonoBehaviour.OnDisable()](https://docs.unity3d.com/6000.4/Documentation/ScriptReference/MonoBehaviour.OnDisable.html)
