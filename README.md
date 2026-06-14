@@ -7,7 +7,7 @@ Explain lessons topics: Event, Enums, Coroutines, Singleton, Generic
 
 + Unity API:
   - [Audio](https://docs.unity3d.com/6000.3/Documentation/Manual/Audio.html)
-  - [Managing scenes in Build Settings (2022.3)](https://docs.unity3d.com/2022.3/Documentation/Manual/BuildSettings.html)
+  - [Managing scenes in Build Settings](https://docs.unity3d.com/2022.3/Documentation/Manual/BuildSettings.html) (_2022.3_)
   - [Managing scenes in Build Profiles](https://www.easyar.com/doc/ru/develop/unity/getting-started/quickstart.html)
   - [MonoBehaviour.Start()](https://docs.unity3d.com/6000.4/Documentation/ScriptReference/MonoBehaviour.Start.html)
   - [MonoBehaviour.Update()](https://docs.unity3d.com/6000.4/Documentation/ScriptReference/MonoBehaviour.Update.html)
