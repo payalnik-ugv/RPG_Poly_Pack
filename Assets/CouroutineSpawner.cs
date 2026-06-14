@@ -12,7 +12,6 @@ public class CouroutineSpawner : MonoBehaviour
         _spawCoroutine = StartCoroutine(SpawnCourutine());
     }
 
-
     private void Update()
     {
         if (Input.GetKeyDown(KeyCode.O))
