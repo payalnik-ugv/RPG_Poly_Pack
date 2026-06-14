@@ -10627,7 +10627,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   victory: {fileID: 8300000, guid: 922298b41f053de428665a473ef630d3, type: 3}
-  loose: {fileID: 8300000, guid: d98d625fec12afd4db65cc5b76612eaa, type: 3}
+  loose: {fileID: 8300000, guid: 5c947e78fe3ba024fb97b0568189378d, type: 3}
   _audioSource: {fileID: 669375063}
 --- !u!4 &669375065
 Transform:

@@ -17,6 +17,8 @@ Explain lessons topics: Event, Enums, Coroutines, Singleton, Generic
   - **Game Assets**: [RPG Poly Pack](https://assetstore.unity.com/packages/3d/environments/landscapes/rpg-poly-pack-lite-148410?srsltid=AfmBOopyTWvyJbW2FR-QsMngGbpQUZwNhEXTJWuIjfRgfdgobDy4EBTA),
 [Jammo Character](https://assetstore.unity.com/packages/3d/characters/jammo-character-mix-and-jam-158456?srsltid=AfmBOoqk_DhLTlslWLfZPgbMGYizJWE7Q7qxmtNsrSzryxVY0UAaVVsM),
 [Coin Treasure Bundle](https://assetstore.unity.com/packages/3d/props/coin-treasure-bundle-with-animation-3d-250070?srsltid=AfmBOopmysnKe723e1sZXHBXWI6KgqJ4yItJOAX9NfgDMllOWX_Wu3dH)
+  - **Game Sounds**: [Gaming victory](https://pixabay.com/sound-effects/search/victory),
+[Game Over](https://pixabay.com/sound-effects/search/game-sad-music)
 
 Blogs: [Создание игры на Unity с нуля](https://artean.ru/blog/igri/kak-sozdat-igru-na-unity-s-nulya-polnoe-rukovodstvo), [...](https://artean.ru/blog)
 
