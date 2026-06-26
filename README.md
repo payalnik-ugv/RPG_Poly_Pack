@@ -10,7 +10,7 @@ also [HotKes](https://docs.unity3d.com/ru/2021.1/Manual/search-overview.html), [
 3. [#2 Добавляем в игру Enum](https://www.youtube.com/watch?v=LkCdgLfF-Rg)
 4. [#3 Свойства, Словарь / Properties, Dictionary](https://www.youtube.com/watch?v=s0xQ_kTXT5o)
 5. [#4 Корутины, Рекурсии, params, Coroutine, Recursion](https://www.youtube.com/watch?v=UyZ77a2ZQkI)
-6. [#5 Синглтон. Генерики. Generic. Singleton.](https://www.youtube.com/watch?v=v_cV5kZqKYs)
+6. [#5 Singleton (Синглтон), Generic (Генерики)](https://www.youtube.com/watch?v=v_cV5kZqKYs)
 
 + Unity API:
   - [Audio](https://docs.unity3d.com/6000.3/Documentation/Manual/Audio.html)
