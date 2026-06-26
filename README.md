@@ -6,7 +6,8 @@ also [HotKes](https://docs.unity3d.com/ru/2021.1/Manual/search-overview.html), [
 
 Explain lessons topics: Event, Enums, Coroutines, Singleton, Generic
 #### C# в Unity для [Средних Полных Новичков](https://www.youtube.com/watch?v=v_cV5kZqKYs&list=PLNzztfzgW7VFK2RmyFfzHqD8X5m7Tojun)
-
+1. [#1 Проект, События(Ивенты, events)](https://www.youtube.com/watch?v=p-989gH2hfU)
+2. [#4 Корутины, Рекурсии, params, Coroutine, Recursion](https://www.youtube.com/watch?v=UyZ77a2ZQkI)
 
 + Unity API:
   - [Audio](https://docs.unity3d.com/6000.3/Documentation/Manual/Audio.html)
