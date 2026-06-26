@@ -1,9 +1,12 @@
 # The Diamond Collection game on an Unity Engine (3D RPG)
 
+[C# в Unity для Средних Полных Новичков / #5 Синглтон. Генерики. Generic. Singleton.](https://www.youtube.com/watch?v=v_cV5kZqKYs&list=PLNzztfzgW7VFK2RmyFfzHqD8X5m7Tojun)
 For details inform can you refer to base tutorials [#1](https://www.youtube.com/watch?v=K5FM6bz4qO4) and [#2](https://www.youtube.com/watch?v=veFxqpw8LKI),
 also [HotKes](https://docs.unity3d.com/ru/2021.1/Manual/search-overview.html), [Engine lifecycle](https://docs.unity3d.com/ru/current/Manual/ExecutionOrder.html).
 
 Explain lessons topics: Event, Enums, Coroutines, Singleton, Generic
+#### C# в Unity для [Средних Полных Новичков](https://www.youtube.com/watch?v=v_cV5kZqKYs&list=PLNzztfzgW7VFK2RmyFfzHqD8X5m7Tojun)
+
 
 + Unity API:
   - [Audio](https://docs.unity3d.com/6000.3/Documentation/Manual/Audio.html)
